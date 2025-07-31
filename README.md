@@ -1,6 +1,6 @@
 # Day 01 - Band Name Generator 🎸
 
-This project is part of the [100 Days of Code: Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Dr Angela Yu from the App Brewery.
+This project is part of the [100 Days of Code: Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu from the App Brewery.
 
 ## 💬 Project Description
 A simple Python script that generates a potential band name by combining the user's city and pet's name.
